@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "503855980790",
+    "firebase_url": "https://likeetube-6dd78.firebaseio.com",
+    "project_id": "likeetube-6dd78",
+    "storage_bucket": "likeetube-6dd78.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:503855980790:android:e51c671612790429c74cd7",
+        "android_client_info": {
+          "package_name": "com.devlopa.likeetube"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "503855980790-b61e2sbqkst3c5062ioimm4mfa7itt3o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADq2cgbiwyTz51Syhvmx8n-YEB4GD3_dQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "503855980790-b61e2sbqkst3c5062ioimm4mfa7itt3o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
